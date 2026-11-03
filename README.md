@@ -8,7 +8,6 @@ Dieses Paket enthält die öffentlichen Seiten für Discords Felder „Terms of 
 
 - vollständiger Name oder Organisation, die den Bot betreibt
 - Kontakt-E-Mail, unter der Datenschutzanfragen wirklich beantwortet werden
-- Postanschrift, soweit sie für dein Angebot erforderlich ist
 - Hosting-Anbieter und Serverstandort/-region, auf dem Bot und Dashboard laufen
 - prüfe die tatsächliche Datenverarbeitung und ob Rechtsgrundlage, Löschfristen und Host-Angaben zu deinem Einsatz passen
 
