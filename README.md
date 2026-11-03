@@ -6,10 +6,11 @@ Dieses Paket enthält die öffentlichen Seiten für Discords Felder „Terms of 
 
 Öffne `terms.html` und `privacy.html` und ersetze **alle gelb markierten Platzhalter**:
 
-- vollständiger Name oder Organisation, die den Bot betreibt
-- Kontakt-E-Mail, unter der Datenschutzanfragen wirklich beantwortet werden
+- Prüfe, ob `Team error.exe` als Betreiberangabe ausreicht oder ob die tatsächlich verantwortliche Person/Organisation benannt werden muss
 - Hosting-Anbieter und Serverstandort/-region, auf dem Bot und Dashboard laufen
 - prüfe die tatsächliche Datenverarbeitung und ob Rechtsgrundlage, Löschfristen und Host-Angaben zu deinem Einsatz passen
+
+`Team error.exe` steht derzeit als Betreiber-/Projektname auf den Seiten. Wenn das nur der Name deines Discord-Teams und keine rechtliche Organisation ist, prüfe, ob die tatsächlich verantwortliche Person oder Organisation noch ausdrücklich genannt werden muss.
 
 Lade keine Identitätsdokumente, Bot-Tokens, `.env`-Dateien, Datenbanken oder Serverkonfigurationen in dieses Repo hoch. GitHub Pages veröffentlicht die Website öffentlich.
 
